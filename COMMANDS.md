@@ -2,4 +2,4 @@
 
 | Sl No | Command | Description |
 | ----- | ------- | ----------- |
-| 1 | `git init` | |
+| 1 | `$ git init` | |
