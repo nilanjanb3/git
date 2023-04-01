@@ -18,11 +18,11 @@
 |  | `$ git checkout -b <branch-name>` | it'll create a branch if doesn't exist and switch into the branch |
 |  | `$ git checkout <branch-name>` |  |
 |  | `$ git log --graph --decorate` |  |
-|  | `$ ` |  |
-|  | `$ ` |  |
-|  | `$ ` |  |
-|  | `$ ` |  |
-|  | `$ ` |  |
+|  | `$ git remote add origin <origin-url>` | It'll display the origins  |
+|  | `$ git push origin main` |  |
+|  | `$ git clone <ssh-link>` |  |
+|  | `$ git fetch origin master` |  |
+|  | `$ git merge origin/master` |  |
 |  | `$ ` |  |
 |  | `$ ` |  |
 |  | `$ ` |  |
