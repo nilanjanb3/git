@@ -23,8 +23,8 @@
 |  | `$ git clone <ssh-link>` |  |
 |  | `$ git fetch origin master` |  |
 |  | `$ git merge origin/master` |  |
-|  | `$ ` |  |
-|  | `$ ` |  |
+|  | `$ git rebase <branch-name>` |  |
+|  | `$ git rebase -i HEAD~4` |  |
 |  | `$ ` |  |
 |  | `$ ` |  |
 |  | `$ ` |  |
