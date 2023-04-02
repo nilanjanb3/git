@@ -25,16 +25,16 @@
 |  | `$ git merge origin/master` |  |
 |  | `$ git rebase <branch-name>` |  |
 |  | `$ git rebase -i HEAD~4` |  |
-|  | `$ ` |  |
-|  | `$ ` |  |
-|  | `$ ` |  |
-|  | `$ ` |  |
-|  | `$ ` |  |
-|  | `$ ` |  |
-|  | `$ ` |  |
-|  | `$ ` |  |
-|  | `$ ` |  |
-|  | `$ ` |  |
+|  | `$ git cherry-pick <hash-code-of-a-commit>` |  |
+|  | `$ git revert <commit-hash>` |  |
+|  | `$ git reset --soft HEAD~1` |  |
+|  | `$ git reset --hard HEAD~1` |  |
+|  | `$ git stash` |  |
+|  | `$ git stash pop` |  |
+|  | `$ git stash list` |  |
+|  | `$ git stash show <stash-hash>` |  |
+|  | `$ git stash pop <stash-hash>` |  |
+|  | `$ git reflog` |  |
 |  | `$ ` |  |
 |  | `$ ` |  |
 |  | `$ ` |  |
